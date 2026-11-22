@@ -5,3 +5,4 @@
 - [2026-11-12 18:37 UTC] Verified Batch #473222 | State: Finalized
 - [2026-11-15 17:25 UTC] Verified Batch #469532 | State: Finalized
 - [2026-11-16 20:41 UTC] Verified Batch #451546 | State: Finalized
+- [2026-11-22 18:02 UTC] Verified Batch #467261 | State: Finalized
